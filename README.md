@@ -48,8 +48,8 @@ Write the detailed procedure here
 ```
 Program to design a Implementation of combinational logic using universal gates-  and verify its truth table in quartus using Verilog programming.
 
-Developed by: Monisha T
-RegisterNumber:  212221240029
+Developed by: PRAGATHEESVARAN
+RegisterNumber:  212221240039
 
 ```
 
